@@ -266,6 +266,36 @@ a {
 	color: #fff;
 }
 
+/*---------------------------------------------*/
+/* CONTACT US */
+/*---------------------------------------------*/
+
+.contact-us{
+    background: url(../img/bg-get-in-touch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    height: 244px;;
+
+    display: table;
+    width: 100%;
+}
+
+.contact-us-title-box{
+    left: 50%;
+    margin-top: 10%;
+    color: #fff;
+    font-size: 256%;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 110%;
+    display: block;
+    text-align: center;
+}
+
 /* HIGHLIGHT */
 
 #highlight {
